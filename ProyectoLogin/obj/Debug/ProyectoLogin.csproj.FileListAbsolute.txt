@@ -1,0 +1,20 @@
+D:\Oscar\UTN\PAVI\2019\3k1\ProyectoLogin\ProyectoLogin\bin\Debug\ProyectoLogin.exe.config
+D:\Oscar\UTN\PAVI\2019\3k1\ProyectoLogin\ProyectoLogin\bin\Debug\ProyectoLogin.exe
+D:\Oscar\UTN\PAVI\2019\3k1\ProyectoLogin\ProyectoLogin\bin\Debug\ProyectoLogin.pdb
+D:\Oscar\UTN\PAVI\2019\3k1\ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.csprojResolveAssemblyReference.cache
+D:\Oscar\UTN\PAVI\2019\3k1\ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.frmLogin.resources
+D:\Oscar\UTN\PAVI\2019\3k1\ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.frmPrincipal.resources
+D:\Oscar\UTN\PAVI\2019\3k1\ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.Properties.Resources.resources
+D:\Oscar\UTN\PAVI\2019\3k1\ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.csproj.GenerateResource.Cache
+D:\Oscar\UTN\PAVI\2019\3k1\ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.exe
+D:\Oscar\UTN\PAVI\2019\3k1\ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.pdb
+E:\Repo\PAVI_3K1_2019\Clases 2019\PRACTICO\CLASE 2 - ProyectoLogin\ProyectoLogin\bin\Debug\ProyectoLogin.exe.config
+E:\Repo\PAVI_3K1_2019\Clases 2019\PRACTICO\CLASE 2 - ProyectoLogin\ProyectoLogin\bin\Debug\ProyectoLogin.exe
+E:\Repo\PAVI_3K1_2019\Clases 2019\PRACTICO\CLASE 2 - ProyectoLogin\ProyectoLogin\bin\Debug\ProyectoLogin.pdb
+E:\Repo\PAVI_3K1_2019\Clases 2019\PRACTICO\CLASE 2 - ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.csprojResolveAssemblyReference.cache
+E:\Repo\PAVI_3K1_2019\Clases 2019\PRACTICO\CLASE 2 - ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.frmLogin.resources
+E:\Repo\PAVI_3K1_2019\Clases 2019\PRACTICO\CLASE 2 - ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.frmPrincipal.resources
+E:\Repo\PAVI_3K1_2019\Clases 2019\PRACTICO\CLASE 2 - ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.Properties.Resources.resources
+E:\Repo\PAVI_3K1_2019\Clases 2019\PRACTICO\CLASE 2 - ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.csproj.GenerateResource.Cache
+E:\Repo\PAVI_3K1_2019\Clases 2019\PRACTICO\CLASE 2 - ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.exe
+E:\Repo\PAVI_3K1_2019\Clases 2019\PRACTICO\CLASE 2 - ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.pdb
